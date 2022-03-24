@@ -1,6 +1,6 @@
 <h1 align="center">Research on Autonomous Terrestial Robot <img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50"></h1>
 
-<p align="center">A repository of research work of [Jaskirat Singh](https://github.com/jaskiratsingh2000) and [Neel Adwani](https://github.com/neeltron) under the Research and Developmemt Center, UPES</p>
+<p align="center">A repository of research work of <a href ="https://github.com/jaskiratsingh2000">Jaskirat Singh</a> and <https://github.com/neeltron>Neel Adwani</a> under the Research and Developmemt Center, UPES</p>
 
 ### Table of Contents
 * [Project Abstract](#project-abstract)
