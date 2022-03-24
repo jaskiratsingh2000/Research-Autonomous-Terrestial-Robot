@@ -1,4 +1,3 @@
-# Research-Autonomous-Terrestial-Robot
 <h1 align="center">Research on Autonomous Terrestial Robot <img src="https://media2.giphy.com/media/KB8MHRUq55wjXVwWyl/source.gif" width="50"></h1>
 
 <p align="center">A repository of research work of [Jaskirat Singh](https://github.com/jaskiratsingh2000) and [Neel Adwani](https://github.com/neeltron) under the Research and Developmemt Center, UPES</p>
