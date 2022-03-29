@@ -18,7 +18,7 @@ with open('Obstacle_Data.csv', 'r') as f:
     
     dataPointsReader = csv.reader(f, delimiter=',')
     
-    # Decoding into 
+    # Decoding into number of iterations
     for i, line in enumerate(dataPointsReader):
         
         if i != 0:
