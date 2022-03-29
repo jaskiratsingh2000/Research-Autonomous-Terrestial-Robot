@@ -4,17 +4,22 @@ import csv
 
 win=Tk()
 
+# Creating the Canvas
 win.geometry("3000x3000")
 
 canvas=Canvas(win, width=180, height=1800)
 canvas.pack()
 
-data = pd.read_csv('1.csv')
+# Reading the data points
+dataPoints = pd.read_csv('Obstacle_Data.csv')
 j = 0
 
-with open('1.csv', 'r') as f:
-    reader = csv.reader(f, delimiter=',')
-    for i, line in enumerate(reader):
+with open('Obstacle_Data.csv', 'r') as f:
+    
+    dataPointsReader = csv.reader(f, delimiter=',')
+    
+    # Decoding into 
+    for i, line in enumerate(dataPointsReader):
         
         if i != 0:
             print(line, i)
