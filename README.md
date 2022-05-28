@@ -13,7 +13,6 @@ With the help of this terrestial robot we are trying to achive the navigation, l
 
 ### Project Advisor
 * [Dr. Ashish Karn](https://www.upes.ac.in/schools-faculty/engineering/electrical-electronics/dr-ashish-karn), UPES, Dehradun
-* [Dr. Deepak Bhardwaj](https://www.upes.ac.in/schools-faculty/engineering/mechanical/deepak-bhardwaj), UPES, Dehradun
 
 > **NOTE:** There are some tags used below which have got the following meanings.
 > * `In Progress`:clock2: The work is in progress and is under development due to current state.
